@@ -1,4 +1,4 @@
-#My first project, a to-do-list app. Key features include local storage and buttons to delete/move tasks up or down the list.
+My first project, a to-do-list app. Key features include local storage and buttons to delete/move tasks up or down the list.
 
 
 
