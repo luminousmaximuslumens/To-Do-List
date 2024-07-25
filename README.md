@@ -1,3 +1,7 @@
+My first project, a to-do-list app. Key features include local storage and buttons to delete/move tasks up or down the list.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
